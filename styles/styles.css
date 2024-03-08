@@ -1,0 +1,13 @@
+*{
+    font-family:"Manrope", sans-serif ;
+}
+.text_main{
+    color:rgb(255, 66, 64) ;
+}
+.button{
+    background: rgb(255, 66, 64) ;
+    color: white;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 8px 16px;
+}
